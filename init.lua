@@ -872,7 +872,8 @@ require('lazy').setup({
       end
 
       -- Set the colorscheme
-      vim.cmd.colorscheme 'habamax'
+      -- vim.cmd.colorscheme 'habamax'
+      vim.cmd.colorscheme 'wildcharm'
       -- ... and there is more!
       --  Check out: https://github.com/echasnovski/mini.nvim
     end,
